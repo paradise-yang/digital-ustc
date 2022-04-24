@@ -45,10 +45,6 @@ https://user-images.githubusercontent.com/78888718/164979683-75e0983d-e4b7-45bf-
 
 
 
-<center class="half">    
-    <img src="./gif/video.gif" width="640" height="360"/> 
-</center>
-
 综合当下不同途径的科大校园景色展示的诸多弊端，足见，我们亟需一个符合科大名校地位的高大上（高保真、大规模、多尺度）科大校园数字化地图与三维模型，以便满足校内外人士对科大校园的浏览与体验。
 
 ### 数字化校园目标
@@ -116,9 +112,9 @@ https://user-images.githubusercontent.com/78888718/164979683-75e0983d-e4b7-45bf-
 
    下面给出 GIF 效果展示
    
-   <center class="half">    
-       <img src="./gif/video_2.gif" width="1000" height="562"/> 
-   </center>
+
+   https://user-images.githubusercontent.com/78888718/164980364-331dabfb-62e2-4222-954f-424aa0ed1136.mp4
+
 
    关于后续工作，课题组的安排如下：
    - 对已经采集的雕像（罗列出来）进行高精度三维几何重建、高保真全息渲染；
