@@ -10,10 +10,10 @@
 	<tr>		   <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->
     <td><center><img src="./img/map.jpg"	
                      alt="科大地图"
-                     width="427" height="257"/></center></td>	<!--<center>标签将图片居中-->
+                     width="427" height="241"/></center></td>	<!--<center>标签将图片居中-->
     <td><center><img src="./img/map2.jpg"
                      alt="科大地图"
-                     width="427" height="257"/></center></td>
+                     width="427" height="241"/></center></td>
     </tr>
 </table>
 
@@ -23,16 +23,16 @@
 	<tr>		   <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->
     		<td><center><img src="./img/fig1.jpg"	
                      alt="科大景色"
-                     width="250" height="200"/></center></td>	<!--<center>标签将图片居中-->
+                     width="250" height="190"/></center></td>	<!--<center>标签将图片居中-->
     		<td><center><img src="./img/fig5.jpg"
                      alt="科大景色"
-                     width="250" height="200"/></center></td>
+                     width="250" height="190"/></center></td>
 		<td><center><img src="./img/fig3.jpg"
                      alt="科大景色"
-                     width="250" height="200"/></center></td>
+                     width="250" height="190"/></center></td>
 		<td><center><img src="./img/fig4.jpg"
                      alt="科大景色"
-                     width="250" height="200"/></center></td>
+                     width="250" height="190"/></center></td>
     </tr>
 </table>
 
@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/78888718/164979683-75e0983d-e4b7-45bf-
 我们以谷歌今年通过车载采集设备对旧金山市几个街区所做的全息高保真数字化工作为例来说明我们拟达到的效果，具体工作介绍见[旧金山市的高保真数字化](https://www.51cto.com/article/701350.html)：
 
    <center class="half">    
-       <img src="./gif/video_4.gif" width="854" height="514"/> 
+       <img src="./gif/video_4.gif" width="850" height="480"/> 
    </center>
 
 
