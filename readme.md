@@ -80,10 +80,10 @@ https://user-images.githubusercontent.com/78888718/164979683-75e0983d-e4b7-45bf-
    	<tr>		   <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->
        <td><center><img src="./img/fig6.jpg"	
                         alt="杨振宁原图"
-                        width="427" height="257"/></center></td>	<!--<center>标签将图片居中-->
+                        width="427" height="240"/></center></td>	<!--<center>标签将图片居中-->
        <td><center><img src="./gif/yzn.gif"
                         alt="杨振宁渲染"
-                        width="427" height="257"/></center></td>
+                        width="427" height="240"/></center></td>
        </tr>
    </table>
 
@@ -110,11 +110,15 @@ https://user-images.githubusercontent.com/78888718/164979683-75e0983d-e4b7-45bf-
        </tr>
    </table>
 
-   下面给出 GIF 效果展示
+   下面给出视频效果展示
+   
    
 
-   https://user-images.githubusercontent.com/78888718/164980364-331dabfb-62e2-4222-954f-424aa0ed1136.mp4
+https://user-images.githubusercontent.com/78888718/164982423-0b84b76f-1f33-4f12-8c8d-4b8aa3c02f8d.mp4
 
+
+   
+   
 
    下面给出渲染图片与真实拍摄数据图片的对比情况：
    <center class="half">    
