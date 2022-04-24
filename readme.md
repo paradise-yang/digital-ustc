@@ -52,21 +52,11 @@
 - 目标一：将科大校园的三维地图重建出来，以用于全景地貌、测量、导航等功能；
 - 目标二：在任意地点对任意视角进行三维高保真全息渲染，其渲染真实性要达到高清相机拍摄的效果。
 
-我们以Google所做的效果为例，来说明我们所达到的目标效果：
+我们以谷歌今年通过车载采集设备对旧金山市几个街区所做的全息高保真数字化工作为例来说明我们拟达到的效果，具体工作介绍见[旧金山市的高保真数字化](https://www.51cto.com/article/701350.html)：
 
-<table frame=void>	<!--使用table标签，且frame=void消除外边框-->
-	<tr>		   <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->
-    <td><center><img src="./gif/video_4.gif"	
-                     alt="Google效果图"
-                     width="427" height="257"/></center></td>	<!--<center>标签将图片居中-->
-    <td><center><img src="./gif/video_5.gif"
-                     alt="Google效果图"
-                     width="427" height="257"/></center></td>
-        <td><center><img src="./gif/video_6.gif"
-                     alt="Google效果图"
-                     width="427" height="257"/></center></td>
-    </tr>
-</table>
+   <center class="half">    
+       <img src="./gif/video_4.gif" width="854" height="514"/> 
+   </center>
 
 
 当然我们必然会有进一步的算法优化，以达到更加优秀的效果，努力追求校园景色的高逼真、多尺度还原，给使用者更加优质的浏览与观赏体验！
