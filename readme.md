@@ -109,6 +109,8 @@
    </table>
 
    下面给出 GIF 效果展示
+   
+   Uploading ustc_gmr.mp4…
 
    <center class="half">    
        <img src="./gif/video_2.gif" width="1000" height="562"/> 
