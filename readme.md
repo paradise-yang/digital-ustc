@@ -39,6 +39,12 @@
 
 再或者，对于前几年兴起的$360\degree$全景照片展示，也只能局限于固定尺度层面以及固定视角的效果展示，当浏览者想要拉近放大观看时就会出现模糊不清的问题，另一个致命的缺点是，若想查看不同尺度不同视角下的校园风景时，比如从俯瞰郭沫若广场到正面水平视角观赏，则需要切换不同的$360\degree$全景照片，增加了浏览者操作的不便性。
 
+
+
+https://user-images.githubusercontent.com/78888718/164979683-75e0983d-e4b7-45bf-8b71-5fa7538cbbf4.mp4
+
+
+
 <center class="half">    
     <img src="./gif/video.gif" width="640" height="360"/> 
 </center>
@@ -110,8 +116,6 @@
 
    下面给出 GIF 效果展示
    
-   Uploading ustc_gmr.mp4…
-
    <center class="half">    
        <img src="./gif/video_2.gif" width="1000" height="562"/> 
    </center>
