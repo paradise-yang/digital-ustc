@@ -10,10 +10,10 @@
 	<tr>		   <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->
     <td><center><img src="./img/map.jpg"	
                      alt="科大地图"
-                     width="427" height="241"/></center></td>	<!--<center>标签将图片居中-->
+                     width="427" height="240"/></center></td>	<!--<center>标签将图片居中-->
     <td><center><img src="./img/map2.jpg"
                      alt="科大地图"
-                     width="427" height="241"/></center></td>
+                     width="427" height="240"/></center></td>
     </tr>
 </table>
 
@@ -23,16 +23,16 @@
 	<tr>		   <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->
     		<td><center><img src="./img/fig1.jpg"	
                      alt="科大景色"
-                     width="250" height="190"/></center></td>	<!--<center>标签将图片居中-->
+                     width="250" height="180"/></center></td>	<!--<center>标签将图片居中-->
     		<td><center><img src="./img/fig5.jpg"
                      alt="科大景色"
-                     width="250" height="190"/></center></td>
+                     width="250" height="180"/></center></td>
 		<td><center><img src="./img/fig3.jpg"
                      alt="科大景色"
-                     width="250" height="190"/></center></td>
+                     width="250" height="180"/></center></td>
 		<td><center><img src="./img/fig4.jpg"
                      alt="科大景色"
-                     width="250" height="190"/></center></td>
+                     width="250" height="180"/></center></td>
     </tr>
 </table>
 
