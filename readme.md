@@ -122,7 +122,7 @@ https://user-images.githubusercontent.com/78888718/164982423-0b84b76f-1f33-4f12-
 
    下面给出渲染图片与真实拍摄数据图片的对比情况：
    <center class="half">    
-       <img src="./gif/compare.gif" width="1000" height="562"/> 
+       <img src="./gif/compare.gif" width="960" height="540"/> 
    </center>
    
    关于后续工作，课题组的安排如下：
