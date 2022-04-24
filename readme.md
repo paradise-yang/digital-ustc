@@ -6,21 +6,37 @@
 
 ​		截止到当前这篇文章落成之时，中国科大的校园概况展示在官网上仅仅是如下两张简略的地图，虽然让人一眼知道了科大校园的位置坐标信息与校区组成，但也只限于此，只能停留在缩略地图的颜色与标注，根本无法进一步浏览科大校园内不同风景的不同特点。并且在如今手机地图高速且便捷的同时，人们并不会想通过这两张地图来进一步了解科大教学楼、风景区以及其他建筑的分布情况，他们可能更渴望观赏真实的缤纷的校园景色。
 
-<center class="half">    
-    <img src="./img/map.jpg" width="400" height="300"/> 
-    <img src="./img/map2.jpg" width="400" height="300"/>
-</center>
+<table frame=void>	<!--使用table标签，且frame=void消除外边框-->
+	<tr>		   <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->
+    <td><center><img src="./img/map.jpg"	
+                     alt="科大地图"
+                     width="427" height="257"/></center></td>	<!--<center>标签将图片居中-->
+    <td><center><img src="./img/map2.jpg"
+                     alt="科大地图"
+                     width="427" height="257"/></center></td>
+    </tr>
+</table>
 
 
 
 ​		而通过其他途径所获得的科大校园展示，更多可能也只停留在照片与视频的层面上，在某种程度上既丧失了校园景色的立体真实美感、也缺少了身临其境的交互体验，让人只停留在“看一眼”的层面上，十分缺乏吸引力与审美性。
 
-<center class="half">    
-    <img src="./img/fig1.jpg" width="250" height="200"/> 
-    <img src="./img/fig5.jpg" width="250" height="200"/>
-    <img src="./img/fig3.jpg" width="250" height="200"/>
-    <img src="./img/fig4.jpg" width="250" height="200"/>
-</center>
+<table frame=void>	<!--使用table标签，且frame=void消除外边框-->
+	<tr>		   <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->
+    		<td><center><img src="./img/fig1.jpg"	
+                     alt="科大景色"
+                     width="250" height="200"/></center></td>	<!--<center>标签将图片居中-->
+    		<td><center><img src="./img/fig5.jpg"
+                     alt="科大景色"
+                     width="250" height="200"/></center></td>
+		<td><center><img src="./img/fig3.jpg"
+                     alt="科大景色"
+                     width="250" height="200"/></center></td>
+		<td><center><img src="./img/fig4.jpg"
+                     alt="科大景色"
+                     width="250" height="200"/></center></td>
+    </tr>
+</table>
 
 
 ​		再或者，对于前几年兴起的$360\degree$全景照片展示，也只能局限于固定尺度层面以及固定视角的效果展示，当浏览者想要拉近放大观看时就会出现模糊不清的问题，另一个致命的缺点是，若想查看不同尺度不同视角下的校园风景时，比如从俯瞰郭沫若广场到正面水平视角观赏，则需要切换不同的$360\degree$全景照片，增加了浏览者操作的不便性。
