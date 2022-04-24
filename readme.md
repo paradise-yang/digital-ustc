@@ -70,9 +70,10 @@ https://user-images.githubusercontent.com/78888718/164979683-75e0983d-e4b7-45bf-
 截止到目前，本项目已取得了部分进展：
 
 1. 利用无人机与GoPro，对科大校园已经采集了部分用于重建工作的数据：科大校园内雕像的多视角视频与图像、樱花大道的多尺度与多视角视频、郭沫若广场的多尺度与多视角视频。
-   <center class="half">    
-       <img src="./gif/video_7.gif" width="1000" height="562"/> 
-   </center>
+   
+
+https://user-images.githubusercontent.com/78888718/164983941-3f9ae62a-bbf7-4d64-b6ab-00ec6668bf6b.mp4
+
 
 2. 对校内的部分雕像已经完成了三维几何重建与全息渲染工作。
 
