@@ -74,7 +74,7 @@
    我们在下面展示一下我们抓住樱花大道全盛开的良好时期努力采集视频数据的片段，当然采集数据很多，并不会在此一一展示：
 
    <center class="half">    
-       <img src="./gif/video_7.gif" width="555" height="312"/> 
+       <img src="./gif/video_7.gif" width="1000" height="562"/> 
    </center>
 
 2. 对部分雕像已经完成了几何网络重建与全息渲染工作。
@@ -118,7 +118,7 @@
    下面给出 GIF 效果展示
 
    <center class="half">    
-       <img src="./gif/video_2.gif" width="800" height="450"/> 
+       <img src="./gif/video_2.gif" width="1000" height="562"/> 
    </center>
 
 
