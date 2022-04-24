@@ -96,24 +96,24 @@ https://user-images.githubusercontent.com/78888718/164983941-3f9ae62a-bbf7-4d64-
    	<tr>
        <td><center><img src="./img/ori1.jpg"
                         alt="展示"
-                        width="427" height="257"/></center></td>
+                        width="427" height="241"/></center></td>
        <td><center><img src="./img/res1.jpg"
                         alt="Typora-Logo"
-                        width="427" height="257"/></center></td>
+                        width="427" height="241"/></center></td>
        </tr>
        <tr>	<!--第二行-->
        <td><center><img src="./img/ori2.jpg"
                         alt="Typora-Logo"
-                        width="427" height="257"/></center></td>
+                        width="427" height="241"/></center></td>
        <td><center><img src="./img/res2.jpg"
                         alt="Typora-Logo"
-                        width="427" height="257"/></center></td>
+                        width="427" height="241"/></center></td>
        </tr>
    </table>
 
-   我们进一步给出动态的GIF对比图来说明我们渲染效果的优秀效果：
+   我们进一步给出动态的GIF对比图来说明我们三维全息渲染效果的优秀：
    <center class="half">    
-       <img src="./gif/compare.gif" width="960" height="540"/> 
+       <img src="./gif/compare.gif" width="850" height="480"/> 
    </center>
    
    下面给出视频效果展示
