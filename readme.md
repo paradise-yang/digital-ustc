@@ -79,10 +79,10 @@ https://user-images.githubusercontent.com/78888718/164979683-75e0983d-e4b7-45bf-
    <table frame=void>	<!--使用table标签，且frame=void消除外边框-->
    	<tr>		   <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->
        <td><center><img src="./img/fig6.jpg"	
-                        alt="郭沫若广场原图1"
+                        alt="杨振宁原图"
                         width="427" height="257"/></center></td>	<!--<center>标签将图片居中-->
-       <td><center><img src="./gif/video_3.gif"
-                        alt="郭沫若广场渲染图1"
+       <td><center><img src="./gif/yzn.gif"
+                        alt="杨振宁渲染"
                         width="427" height="257"/></center></td>
        </tr>
    </table>
@@ -116,8 +116,13 @@ https://user-images.githubusercontent.com/78888718/164979683-75e0983d-e4b7-45bf-
    https://user-images.githubusercontent.com/78888718/164980364-331dabfb-62e2-4222-954f-424aa0ed1136.mp4
 
 
+   下面给出渲染图片与真实拍摄数据图片的对比情况：
+   <center class="half">    
+       <img src="./gif/compare.gif" width="1000" height="562"/> 
+   </center>
+   
    关于后续工作，课题组的安排如下：
-   - 对已经采集的雕像（罗列出来）进行高精度三维几何重建、高保真全息渲染；
+   - 对已经采集的雕像（如：郭沫若、严济慈、钱学森、华罗庚等雕像）进行高精度三维几何重建、高保真全息渲染；
    - 在课题组购买所需的设备后，计划对科大校园进行多尺度、多视角、大规模的进行数据采集与处理工作，尤其针对少年班、老校门等标志性建筑进行重点采集；
    - 由采集到的多视角图像、激光雷达所采集到的点云图像对校园进行三维重建，再结合课题组所研发的三维重建、神经渲染等技术进行三维全息重建与渲染等；
    - 对标志性建筑、雕像等进行额外重建，并进行渲染。
