@@ -90,8 +90,10 @@ https://user-images.githubusercontent.com/78888718/164983941-3f9ae62a-bbf7-4d64-
 
 3. 对郭沫若广场进行了三维全息渲染，效果逼真，高度还原现实真实场景。
 
-   下图左侧为真实图片，**右侧为渲染图片**效果对比展示：
+   下面的视频展示了根据我们对郭沫若广场的三维全息重建进行自由漫走的展示效果：  
+https://user-images.githubusercontent.com/78888718/164982423-0b84b76f-1f33-4f12-8c8d-4b8aa3c02f8d.mp4
 
+   我们还对渲染的结果与真实拍摄图像进行对比，下图左侧为真实图片，**右侧为渲染图片**，可以看出由我们重建出来的模型可以得到高质量的渲染效果。
    <table frame=void>
    	<tr>
        <td><center><img src="./img/ori1.jpg"
@@ -115,14 +117,6 @@ https://user-images.githubusercontent.com/78888718/164983941-3f9ae62a-bbf7-4d64-
    <center class="half">    
        <img src="./gif/compare.gif" width="850" height="480"/> 
    </center>
-   
-   下面给出视频效果展示
-   
-   
-
-https://user-images.githubusercontent.com/78888718/164982423-0b84b76f-1f33-4f12-8c8d-4b8aa3c02f8d.mp4
-
-
    
   
    关于后续工作，课题组的安排如下：
