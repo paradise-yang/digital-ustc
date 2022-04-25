@@ -92,7 +92,7 @@ https://user-images.githubusercontent.com/78888718/164983941-3f9ae62a-bbf7-4d64-
        <td><center><img src="./img/yjc.png"
                         alt="严济慈原图"
                         width="427" height="240"/></center></td>
-       <td><center><img src="./img/yjc.gif"
+       <td><center><img src="./gif/yjc.gif"
                         alt="严济慈渲染"
                         width="427" height="240"/></center></td>
        </tr>
