@@ -75,9 +75,7 @@ https://user-images.githubusercontent.com/78888718/164979683-75e0983d-e4b7-45bf-
 https://user-images.githubusercontent.com/78888718/164983941-3f9ae62a-bbf7-4d64-b6ab-00ec6668bf6b.mp4
 
 
-2. 对校内的部分雕像已经完成了三维几何重建与全息渲染工作。
-
-   下面我们用两种方式分别展示杨振宁、严济慈的雕像重建结果：
+2. 对校内的部分雕像已经完成了三维几何重建与全息渲染工作。下面我们分别用两种方式展示杨振宁、严济慈的雕像重建结果：
 
    <table frame=void>	<!--使用table标签，且frame=void消除外边框-->
    	<tr>		   <!--<tr>一行的内容<\tr>，<td>一个格子的内容<\td>-->
@@ -98,9 +96,7 @@ https://user-images.githubusercontent.com/78888718/164983941-3f9ae62a-bbf7-4d64-
        </tr>
    </table>
 
-3. 对郭沫若广场进行了三维全息渲染，效果逼真，高度还原现实真实场景。
-
-   下面的视频展示了根据我们对郭沫若广场的三维全息重建进行自由漫走的展示效果：  
+3. 对郭沫若广场进行了三维全息渲染，效果逼真，高度还原现实真实场景。下面的视频展示了根据我们对郭沫若广场的三维全息重建进行自由漫走的展示效果：  
    
    
 https://user-images.githubusercontent.com/78888718/164982423-0b84b76f-1f33-4f12-8c8d-4b8aa3c02f8d.mp4
